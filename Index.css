@@ -1,0 +1,41 @@
+*{
+    box-sizing : border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: grey;
+}
+
+h1{
+    text-decoration: aqua;
+    padding: 20px;
+    font-family: monospace;
+    font-weight: 800;
+}
+
+h1 span {
+    text-align: center;
+    margin: 50px
+}
+
+.container{
+    margin: 20%;
+    border: 5px solid green;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.show button{
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid green;
+}
+.show input{
+    margin: 20px;
+    padding: 10px;
+    width: 150px;
+    border: 2px solid green;
+}
