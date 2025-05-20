@@ -20,3 +20,7 @@ while(length > password.length){
 }
  passwordBox.value = password;
 }
+
+const newFeature = function(){
+    console.log("Welcome")
+}
